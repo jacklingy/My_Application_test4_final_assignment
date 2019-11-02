@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">智能小冰</string>
+    <string name="exit">退出聊天</string>
+    <string name="about">关于软件</string>
+    <string name="key">843e3bbf38f70139cf6cdae36c7e2135</string>
+    <string name="address">http://op.juhe.cn/iRobot/index</string>
+    <string name="remain">http://106.13.214.120/android/</string>
+    <!--http://op.juhe.cn/iRobot/index-->
+    <!--843e3bbf38f70139cf6cdae36c7e2135-->
+</resources>
